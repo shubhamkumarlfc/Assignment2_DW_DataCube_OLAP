@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Assignment2_DW_DataCube_OLAP", "Assignment2_DW_DataCube_OLAP\Assignment2_DW_DataCube_OLAP.dwproj", "{5DE81C7C-3D6C-415E-88EE-5C5FC03E9CD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE81C7C-3D6C-415E-88EE-5C5FC03E9CD5}.Development|Default.ActiveCfg = Development
+		{5DE81C7C-3D6C-415E-88EE-5C5FC03E9CD5}.Development|Default.Build.0 = Development
+		{5DE81C7C-3D6C-415E-88EE-5C5FC03E9CD5}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E94DCD-8533-41D7-9670-7BFE40B37FE7}
+	EndGlobalSection
+EndGlobal
